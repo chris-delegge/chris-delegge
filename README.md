@@ -8,13 +8,13 @@ I am a revenue architect and startup founder leveraging AI transformation to com
 
 ### 🤖 Ailyned — Founder & Principal Consultant
 * **Focus:** AI-Accelerated GTM Strategy & Revenue Growth Consultancy.
-* **GitHub Org:**
+* **GitHub Org:** [Ailyned](https://github.com/ailyned)
 * **Core Expertise:** Helping organizations navigate AI transformation. I design and deliver Go-To-Market strategies rooted in the **Winning by Design** framework. 
 * **Credentials:** 4x Certified by Winning by Design | Founding Member of the Growth Institute.
 
 ### 📈 Vyzabull — Founder
 * **Focus:** AI brand visibility for B2B SaaS.
-* **GitHub Org:** 
+* **GitHub Org:** [Vyzabull](https://github.com/vyzabull)
 * **Core Expertise:** An early-stage startup focused heavily on "upstream" brand footprinting. Optimizing the foundational work required to secure AI engine visibility, rather than just tracking downstream citations and mentions.
 
 ---
